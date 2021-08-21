@@ -1,0 +1,72 @@
+/* google font */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.all-item{
+    display: flex;
+   margin: 50px;
+   
+
+}
+.mac-img{
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+ }
+ 
+.desc-sec{
+    margin-left: 80px;
+}
+
+
+.btn-sec button{
+    padding: 0.4rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 400;
+    border: 2px solid gray;
+    outline: none;
+    cursor: pointer;
+    background: white;
+    color: black;
+    border-radius: 5px; 
+}
+
+.btn-sec p{
+    font-weight: bolder;
+}
+
+.btn-sec button:hover{
+    background: black;
+    color: white;
+}
+
+.calculation{
+    margin-top: 100px;
+}
+
+.calculation p{
+   font-weight: bolder;
+  
+}
+
+.calculation input{
+    padding: 0.4rem 1.5rem;
+    border-radius: 5px;
+}
+.calculation button{
+    background: rgba(255, 68, 0, 0.904);
+    padding: 0.4rem 1.5rem;
+    color: white;
+    border-radius: 5px;
+}
+
+hr {
+    width:35%;
+    position: relative;
+    right:300px;
+    margin:0 auto;
+} 
+input{
+    width: 13%;
+}
